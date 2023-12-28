@@ -1,2 +1,2 @@
 # Ebac_AtividadesQA
-EBAC - Exercício Gherkin Módulo 8
+EBAC - Atividades de Engenharia de Qualidade de Software 
